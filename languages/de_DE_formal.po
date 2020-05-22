@@ -1,0 +1,514 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: GTST\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-10-18 09:03+0200\n"
+"PO-Revision-Date: 2019-10-18 09:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: STADTKREATION\n"
+"Language: de_DE@formal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Seite nicht gefunden"
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Die gewünschte Seite wurde leider nicht gefunden. Bitte versuchen Sie, den "
+"gewünschten Inhalt über die Navigationsmenüs zu finden oder benutzen Sie die "
+"Suchfunktion."
+
+#: archive.php:20 index.php:23 template-parts/content.php:25
+msgid "News"
+msgstr "Aktuelles"
+
+#: archive.php:52 functions.php:883 index.php:65
+msgid "previous page"
+msgstr "vorherige Seite"
+
+#: archive.php:53 functions.php:884 index.php:66
+msgid "next page"
+msgstr "nächste Seite"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ein Kommentar zu &ldquo;%1$s&rdquo;"
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &ldquo;%1$s&rdquo;"
+msgstr[1] "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentarfuntkion geschlossen."
+
+#: functions.php:9
+msgid ""
+"Wordpress Theme for Gyula-Trebitsch-Stadtteilschule Hamburg-Tonndorf (GTST), "
+"developed by STADTKREATION and based on a starter theme by Underscores.me. "
+"Design developed by blum ⁄⁄ Design und Kommunikation for a previous TYPO3 "
+"version with modifications and adaptions for responsive layout by "
+"STADTKREATION."
+msgstr ""
+"Wordpress-Theme für die Gyula-Trebitsch-Stadtteilschule Hamburg-Tonndorf "
+"(GTST), entwickelt von STADTKREATION und basierend auf einem Starter-Theme "
+"von Underscores.me. Design entwickelt von blum ⁄⁄ Design und Kommunikation "
+"für eine vorherige TYPO3-Version mit Änderungen und Anpassungen für ein "
+"responsives Layout durch STADTKREATION."
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Hauptmenü"
+
+#: functions.php:49
+msgid "Secondary"
+msgstr "Sekundärmenü"
+
+#: functions.php:50
+msgid "Social Menu"
+msgstr "Social-Media-Menü"
+
+#: functions.php:51
+msgid "Footer 1"
+msgstr "Fußleiste 1"
+
+#: functions.php:52
+msgid "Footer 2"
+msgstr "Fußleiste 2"
+
+#: functions.php:53
+msgid "Footer 3"
+msgstr "Fußleiste 3"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:122 functions.php:131 functions.php:140 functions.php:149
+#: functions.php:158 functions.php:167 functions.php:176 functions.php:185
+msgid "Add widgets here."
+msgstr "Widgets hier hinzufügen"
+
+#: functions.php:129
+msgid "Posts page sidebar"
+msgstr "Seitenleiste für Beitragsseiten"
+
+#: functions.php:138
+msgid "Events page sidebar"
+msgstr "Seitenleiste für Terminseiten"
+
+#: functions.php:147
+msgid "Sidebar for Page type 2"
+msgstr "Seitenleiste für Seitentyp 2"
+
+#: functions.php:156
+msgid "Sidebar for Page type 3"
+msgstr "Seitenleiste für Seitentyp 3"
+
+#: functions.php:165
+msgid "Sidebar for Page type 4"
+msgstr "Seitenleiste für Seitentyp 4"
+
+#: functions.php:174
+msgid "Footer top widgets"
+msgstr "Footer-Widgets oben"
+
+#: functions.php:183
+msgid "Footer left widgets"
+msgstr "Footer-Widgets links"
+
+#: functions.php:304
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr "Slider"
+
+#: functions.php:305
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr "Slider"
+
+#: functions.php:306
+msgid "Sliders"
+msgstr "Slider"
+
+#: functions.php:307 functions.php:333
+msgid "Slider"
+msgstr "Slider"
+
+#: functions.php:308
+msgid "Slider Archives"
+msgstr "Slider-Archive"
+
+#: functions.php:309
+msgid "Slider Attributes"
+msgstr "Slider-Attribute"
+
+#: functions.php:310
+msgid "Parent Slider:"
+msgstr "Übergeordneter Slider:"
+
+#: functions.php:311
+msgid "All Sliders"
+msgstr "Alle Slider"
+
+#: functions.php:312
+msgid "Add New Slider"
+msgstr "Neuen Slider hinzufügen"
+
+#: functions.php:313
+msgid "Add New"
+msgstr "Erstellen"
+
+#: functions.php:314
+msgid "New Slider"
+msgstr "Neuer Slider"
+
+#: functions.php:315
+msgid "Edit Slider"
+msgstr "Slider bearbeiten"
+
+#: functions.php:316
+msgid "Update Slider"
+msgstr "Slider aktualisieren"
+
+#: functions.php:317
+msgid "View Slider"
+msgstr "Slider ansehen"
+
+#: functions.php:318
+msgid "View Sliders"
+msgstr "Slider ansehen"
+
+#: functions.php:319
+msgid "Search Slider"
+msgstr "Slider suchen"
+
+#: functions.php:320
+msgid "No Slider found"
+msgstr "Keiné Slider gefunden"
+
+#: functions.php:321
+msgid "No Slider found in Trash"
+msgstr "Keine Slider im Papierkorb gefunden"
+
+#: functions.php:322
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: functions.php:323
+msgid "Set featured image"
+msgstr "Beitragsbild setzen"
+
+#: functions.php:324
+msgid "Remove featured image"
+msgstr "Beitragsbild entfernen"
+
+#: functions.php:325
+msgid "Use as featured image"
+msgstr "Als Beitragsbild verwenden"
+
+#: functions.php:326
+msgid "Insert into item"
+msgstr "Neues Element hinzufügen"
+
+#: functions.php:327
+msgid "Uploaded to this Slider"
+msgstr "Hochgeladen zu diesem Slider"
+
+#: functions.php:328
+msgid "Sliders list"
+msgstr "Slider-Liste"
+
+#: functions.php:329
+msgid "Sliders list navigation"
+msgstr "Slider-Listen-Navigation"
+
+#: functions.php:330
+msgid "Filter Sliders list"
+msgstr "Slider-Liste filtern"
+
+#: functions.php:334
+msgid "Sliders for GTST Wordpress theme."
+msgstr "Slider für das GTST-Wordpress-Theme."
+
+#: functions.php:531
+msgid "Post image"
+msgstr "Beitragsbild"
+
+#: functions.php:585
+msgid "Search for: "
+msgstr "Suchen nach:"
+
+#: functions.php:632
+msgid "Section Image"
+msgstr "Abschnittsbild"
+
+#: functions.php:646
+msgid "next"
+msgstr "nächster"
+
+#: functions.php:647
+msgid "previous"
+msgstr "vorheriger"
+
+#: functions.php:678
+msgid "Newsletter2Go key missing"
+msgstr "Newsletter2Go-Schlüssel fehlt"
+
+#: functions.php:696
+msgid "Widget must be saved to view ID."
+msgstr "Das Widget muss gespeichert werden, um die ID anzuzeigen."
+
+#: functions.php:697
+msgid "Widget ID is: "
+msgstr "Die Widget-ID lautet: "
+
+#: functions.php:785
+msgid "Search results for:"
+msgstr "Suchergebnisse für:"
+
+#: functions.php:787
+msgid "Search events:"
+msgstr "Termine suchen:"
+
+#: functions.php:787
+msgid "Search"
+msgstr "Suche"
+
+#: functions.php:876
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr "Seite %1$s  von %2$s"
+
+#: functions.php:900 functions.php:909
+msgid "until"
+msgstr "bis"
+
+#: functions.php:918
+msgid "No events today"
+msgstr "Heute keine Termine"
+
+#: functions.php:920
+msgid "No upcoming events"
+msgstr "Keine anstehenden Termine"
+
+#: functions.php:955
+msgid "Print page"
+msgstr "Seite drucken"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: header.php:68
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Verfasst am %s"
+
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:69
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Verfasst in %1$s"
+
+#: inc/template-tags.php:73
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Verschlagwortet mit %1$s"
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Einen Kommentar verfassen<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/template-tags.php:105 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bearbeiten <span class=\"screen-reader-text\">%s</span>"
+
+#: page-events.php:3
+msgid "Events page"
+msgstr "Termine-Seite"
+
+#: page-start.php:3
+msgid "Start page"
+msgstr "Startseite"
+
+#: page-type2.php:3
+msgid "Page type 2"
+msgstr "Seitentyp 2"
+
+#: page-type3.php:3
+msgid "Page type 3"
+msgstr "Seitentyp 3"
+
+#: page-type4.php:3
+msgid "Page type 4"
+msgstr "Seitentyp 4"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:31
+#, php-format
+msgid "%s results found."
+msgstr "%s Ergebnisse gefunden."
+
+#: search.php:53
+msgid "New search:"
+msgstr "Neue Suche:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit zum Publizieren des ersten Beitrags? <a href=\"%1$s\">Starten Sie "
+"hier</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Zu Ihrem Suchbegriff wurde nichts gefunden. Bitte versuchen Sie es erneut "
+"mit einem neuen Suchbegriff."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Die von Ihnen gewünschte Seite wurde nicht gefunden. Bitte versuchen Sie, "
+"den gewünschten Inhalt über die Suche zu finden."
+
+#: template-parts/content-page.php:27 template-parts/content.php:62
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: template-parts/content-search.php:19
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: template-parts/content.php:51
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Weiterlesen<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Meistgenutzte Kategorien"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Sehen Sie in den Monatsarchiven nach. %1$s"
+
+#, fuzzy
+#~| msgid "Slider Archives"
+#~ msgid "Event Archives"
+#~ msgstr "Slider-Archive"
+
+#, fuzzy
+#~| msgid "Slider Attributes"
+#~ msgid "Event Attributes"
+#~ msgstr "Slider-Attribute"
+
+#, fuzzy
+#~| msgid "Parent Slider:"
+#~ msgid "Parent Event:"
+#~ msgstr "Übergeordneter Slider:"
+
+#, fuzzy
+#~| msgid "Add New"
+#~ msgid "Add New Event"
+#~ msgstr "Erstellen"
+
+#, fuzzy
+#~| msgid "Update Slider"
+#~ msgid "Update Event"
+#~ msgstr "Slider aktualisieren"
+
+#, fuzzy
+#~| msgid "View Sliders"
+#~ msgid "View Events"
+#~ msgstr "Slider ansehen"
+
+#, fuzzy
+#~| msgid "No Slider found"
+#~ msgid "No Event found"
+#~ msgstr "Keiné Slider gefunden"
+
+#, fuzzy
+#~| msgid "No Slider found in Trash"
+#~ msgid "No Event found in Trash"
+#~ msgstr "Keine Slider im Papierkorb gefunden"
+
+#, fuzzy
+#~| msgid "Uploaded to this Slider"
+#~ msgid "Uploaded to this Event"
+#~ msgstr "Hochgeladen zu diesem Slider"
+
+#, fuzzy
+#~| msgid "Sliders list"
+#~ msgid "Events list"
+#~ msgstr "Slider-Liste"
+
+#, fuzzy
+#~| msgid "Sliders list navigation"
+#~ msgid "Events list navigation"
+#~ msgstr "Slider-Listen-Navigation"
+
+#, fuzzy
+#~| msgid "Filter Sliders list"
+#~ msgid "Filter Events list"
+#~ msgstr "Slider-Liste filtern"
+
+#, fuzzy
+#~| msgid "Sliders for GTST Wordpress theme."
+#~ msgid "Events for GTST Wordpress theme."
+#~ msgstr "Slider für das GTST-Wordpress-Theme."

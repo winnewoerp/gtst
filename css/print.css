@@ -1,0 +1,73 @@
+/* Print CSS styles for GTST Wordpress Theme by STADTKREATION 09/2019 */
+
+nav.main-navigation,
+nav.sub-navigation,
+nav.top-navigation,
+nav.social-navigation {
+	display:none;
+}
+
+#page {
+	width:100%;
+	padding:0 !important;
+	margin:0 !important;
+}
+
+#primary,
+#primary .content-box,
+#primary .textbox {
+	width:100%;
+	max-width:100% !important;
+	padding:0 !important;
+	margin:0 !important;
+	border:none !important;
+	box-shadow:none !important;
+}
+
+.textbox-image {
+	display:none;
+}
+
+.gtst-header-slideshow {
+	display:none;
+}
+
+#secondary {
+	display:none;
+}
+
+#content {
+	margin:0 !important;
+	padding:0 !important;
+	padding-top:125px !important;
+}
+
+#content .entry-title,
+#content .page-title {
+	padding-left:0 !important;
+	margin-left:0 !important;
+}
+
+.page-numbers {
+	display:none !important;
+}
+
+.print-page {
+	display:none;
+}
+
+#content .event-searchform {
+	display:none;
+}
+
+footer.site-footer {
+	display:none;
+}
+
+.edit-link {
+	display:none;
+}
+
+.footer-widgets {
+	display:none;
+}
